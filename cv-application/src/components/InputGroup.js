@@ -1,4 +1,5 @@
 import React from 'react'
+import  "../styles/inputs.css"
 
 const inputGroup = ({id, type, labelText, placeholder}) => {
   return (
